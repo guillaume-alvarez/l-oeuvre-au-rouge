@@ -1,4 +1,4 @@
-# Scènes {#sc-nes}
+# Scènes {#scenes}
 
 Le jeu se déroule par scènes montrant la tentative d’un personnage pour acquérir un avantage ou progresser vers son but. Chaque joueur (y compris le Narrateur) va à son tour décrire une scène, racontant une action de son personnage, plantant un décor et terminant par la résolution de l’action décrite. Le Narrateur fait de même mais n’a pas forcément de personnage identifié, il peut se contenter de décrire une ambiance. Une scène ne doit pas prendre plus d&#039;une poignée de minutes aux joueurs, résolution comprise.
 
