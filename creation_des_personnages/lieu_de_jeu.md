@@ -6,8 +6,9 @@ Il doit parler à l’ensemble du groupe car chaque joueur devra y apporter sa t
 
 En voici quelques exemples :
 
-*   “Venise, cité de marchands et d’alchimistes entre la France, le Pape et les Turcs”
-*   “La cour de France, pendant les guerres de Religion, avant la Saint Barthélemy”
-*   “La cité impériale de Nuremberg, loin du Pape et de Dieu mais trop près de l’Empereur”
+* “Venise, cité de marchands et d’alchimistes entre la France, le Pape et les Turcs”
+* “La cour de France, pendant les guerres de Religion, avant la Saint Barthélemy”
+* “La cité impériale de Nuremberg, loin du Pape et de Dieu mais trop près de l’Empereur”
 
-_Marc, Pierre et Arnaud se sont réunis pour une partie, Pierre leur propose de jouer à Venise. Il leur brosse un portrait rapide de la ville, les grandes places englouties par la marée haute, les ruelles sombres et étroites baignées du clapotis des canaux, l’eau saumâtre où pourrait de temps en temps flotter le corps sans vie d’un marin ou d’un jeu patricien trop aventureux, les gargottes d’apothicaires et d’alchimistes, la politique de comités et de conseils qui se paralysent pour éviter qu’un seul prenne le pouvoir. Marc et Arnaud sont enthousiasmés par cette description et approuvent la proposition._
+> _Marc, Pierre et Arnaud se sont réunis pour une partie, Pierre leur propose de jouer à Venise. Il leur brosse un portrait rapide de la ville, les grandes places englouties par la marée haute, les ruelles sombres et étroites baignées du clapotis des canaux, l’eau saumâtre où pourrait de temps en temps flotter le corps sans vie d’un marin ou d’un jeu patricien trop aventureux, les gargottes d’apothicaires et d’alchimistes, la politique de comités et de conseils qui se paralysent pour éviter qu’un seul prenne le pouvoir. Marc et Arnaud sont enthousiasmés par cette description et approuvent la proposition._
+
