@@ -8,7 +8,7 @@ Ils cherchent aussi à s'éloigner des Princes, qu'il s'agisse des Rois de Franc
 
 Hélas, tant de fois hélas, le pouvoir réel reste entre les mains des hommes d'église et des têtes couronnées et leurs disputes gouvernent le monde des hommes. Ceux qui croient en une utopie, sociale, religieuse ou scientifique sont bien malmennés, devant toujours servir des maîtres indignes dont les prébendes sont indispensable. Car que serait un alchimiste s'il ne menait pas de recherches au sein de son laboratoire ? Qui verrait les oeuvres d'un peintre sans commandes pour son atelier ? Que ferait le sage ministre sans portefeuille au gouvernement du royaume ?
 
-Les érudits de la Renaissance sont broyés entre leurs nobles aspirations et les mauvais travaux qu'ils doivent accomplir pour financer celles-là.
+Les érudits de la Renaissance sont broyés entre leurs nobles aspirations et les mauvais travaux qu'ils doivent accomplir pour financer celles-là. Ils doivent lutter contre l'Obscurité qui menace de les engloutir et les Lumières qu'ils souhaitent faire advenir.
 
 ### Une magie omniprésente
 
@@ -16,9 +16,9 @@ Les érudits de la Renaissance pratiquent en sus des ars vulgaires \(de la menui
 
 Toutes ces sciences se basent sur les règles de sympathie :
 
-* _**le semblable appelle le semblable**__ _ Tout symbole peut influencer ce qu'il représente et inversement. Une figurine de cire peut être utilisée pour cibler la personne qu’elle représente. Une constellation a un impact sur les personnes nées durant son zodiaque. Une signature peut représenter la personne l’ayant écrite. 
+* **_le semblable appelle le semblable_**_\_\_ _ Tout symbole peut influencer ce qu'il représente et inversement. Une figurine de cire peut être utilisée pour cibler la personne qu’elle représente. Une constellation a un impact sur les personnes nées durant son zodiaque. Une signature peut représenter la personne l’ayant écrite.
 
-* _**le contact spirituel survit à l’éloignement physique**_ Ce qui une fois a été un, reste lié. Des cheveux ou du sang d’une personne peuvent permettre de lui lancer un sort, de l’influencer. Une mère qui retrouve son enfant le reconnaît immédiatement. L’amoureux sent que sa belle est en danger.
+* **_le contact spirituel survit à l’éloignement physique_** Ce qui une fois a été un, reste lié. Des cheveux ou du sang d’une personne peuvent permettre de lui lancer un sort, de l’influencer. Une mère qui retrouve son enfant le reconnaît immédiatement. L’amoureux sent que sa belle est en danger.
 
 
 Il ne s'agit pas tant de tours de passe-passe, de sorts, de potions, et autres matière à conte de fée, que d'une connaissance intime du fonctionnement du monde. Ils ne font pas de la magie comme le ferait un magicien de foire. Ils comprennent le fonctionnement de l'univers au-delà des évidences, perçoivent tous les fils que la Destinée à tirés entre les êtres, et savent tirer ceux-ci pour complaire à leur désirs.
