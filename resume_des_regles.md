@@ -1,13 +1,11 @@
 # Résumé des règles
 
-Règles de bas des sciences (alchimie, astrologie, numérologie, théurgie, etc.) :
+Règles de base des sciences (alchimie, astrologie, numérologie, théurgie, etc.) :
 
 _le semblable appelle le semblable_
-
 Une figurine de cire peut être utilisée pour cibler la personne qu'elle représente. Une constellation a un impact sur les personnes nées durant son zodiaque. Une signature peut représenter la personne l'ayant écrite.
 
 _le contact spirituel survit à l'éloignement physique_
-
 Des cheveux ou du sang d'une personne peuvent permettre de lui lancer un sort, de l'influencer. Une mère qui retrouve son enfant le reconnaît immédiatement. L'amoureux sent que sa belle est en danger.
 
 Je peux réaliser mon objectif si je prends un avantage contre chaque autre joueur.
