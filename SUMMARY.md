@@ -16,4 +16,5 @@
    * [Règles du Narrateur](scenes/regles_du_narrateur.md)
    * [Fin de la partie](scenes/fin_de_la_partie.md)
 * [Correspondances](correspondances.md)
+* Résumé des règles
 
