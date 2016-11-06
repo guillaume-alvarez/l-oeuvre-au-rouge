@@ -1,6 +1,5 @@
 # Commencer une partie {#commencer-une-partie}
 
-
 _Pour préparer une partie, il faut :_
 
 *   un tarot de Marseille
