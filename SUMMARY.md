@@ -2,7 +2,7 @@
 
 * [L'Oeuvre au Rouge](README.md)
 * [Introduction](introduction.md)
-* [Création des personnages](creation_des_personnages/README.md)
+* [Commencer une partie](creation_des_personnages/README.md)
    * [Lieu de jeu](creation_des_personnages/lieu_de_jeu.md)
    * [Types de personnages](creation_des_personnages/types_de_personnages.md)
    * [Choix des caractères des humeurs](creation_des_personnages/choix_des_caracteres_des_humeurs.md)
