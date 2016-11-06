@@ -12,9 +12,19 @@ Un bon aspect va plus loin qu’un simple qualificatif, il fournit une nuance et
 
 Le Narrateur n’a pas de personnage, mais il a tout de même des aspects liés au contexte de la partie, le lieu, les forces en présences, etc.
 
+### Aspect principal
+
 Chaque joueur choisit un aspect principal définissant son érudit. Celui-ci pour être intéressant ne doit être ni trop simple ni trop complexe. Un bon indicateur est d’y voir une idée de base portée par l’aspect et une ouverture ou une légère contradiction.
 
 > _Arnaud trouve tout de suite l’aspect d’Arnulfo, ce sera “Mes oeuvres sont comme vivantes, plus vraies que nature.”. Marc a un peu plus de mal, Pierre en temps que Narrateur essaie de l’aider et lui propose “Ma Foi sera mon Glaive pour trancher l’infidèle” mais c’est trop violent. Arnaud lui suggère “La Vraie Foi triomphera des prêtres” mais Pierre trouve cela un peu trop simple pour être très intéressant. Marc choisit alors “La Vraie Foi triomphera envers et contre tout” qui laisse penser à des méthodes peu ragoûtantes utilisées dans un noble but et ouvre des possibilités à Marcello._
+
+### Objectif du personnage
+
+Chaque joueur choisit un aspect explicitant l'objectif à long terme de son personnage, celui qui sera remplit s'il gagne la partie. Il faut le préférer grandiloquent que mesquin. Cet objectif est l'oeuvre d'une vie, ce qui explique à la fois les sacrifices consentis et les crimes qui pourraient être commis en son nom.
+
+> Arnulfo étant un artiste, Arnaud lui voit bien un complexe de Frankenstein\/Pygmalion et choisit comme objectif "Je donnerai vie à la matière". Marc réfléchit un peu en puis prend comme objectif de Marcello un "Purger Venise de toute souillure" qui sent déjà l'autodafé et les procès en sorcellerie.
+
+### Liens avec l'univers
 
 Chaque joueur choisit ensuite un aspect lié à un personnage \(autre qu’un érudit\) ou un groupe de personnages qu’il nomme. Enfin chaque joueur choisit un aspect lié au personnage ou groupe qui vient d’être nommé par un autre joueur.
 
