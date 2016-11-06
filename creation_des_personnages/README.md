@@ -1,6 +1,6 @@
 # Commencer une partie {#commencer-une-partie}
 
-_Pour préparer une partie, il faut :_
+Pour préparer une partie, il faut :
 
 * un tarot de Marseille
 * une table où poser le matériel et autour de laquelle s'asseoir
