@@ -18,13 +18,6 @@ Des cheveux ou du sang d’une personne peuvent permettre de lui lancer un sort,
 
 Les sources d’inspirations principales sont [L’Oeuvre au Noir, de Marguerite Yourcenar](http://fr.wikipedia.org/wiki/L%27%C5%92uvre_au_noir) et [La Licorne, de Gabella et Jean](http://fr.wikipedia.org/wiki/La_Licorne_%28bande_dessin%C3%A9e%29).
 
-_Pour préparer une partie, il faut :_
-
-*   un tarot de Marseille
-*   une table où poser le matériel et autour de laquelle s&#039;asseoir
-*   imprimer au moins [une table de correspondances](correspondances.md) (avant-dernière page)
-*   imprimer une feuille de personnage par joueur (dernière page)
-
 _Note technique :_
 
 Le système de base est celui de [FATE Core](http://fate-srd.com/fate-core/basics), adapté au thème (ésotérique) et plus dangereux pour les PJ (moins pulp qu’un SotC). Il utilise les cartes d’un tarot de Marseille pour figurer les FATE Points. Il l’utilise aussi pour remplacer les dés. Les questions et remarques sont les bienvenues sur [mon blog](https://imrryran.wordpress.com/) et [le forum du potajeux](http://lepotajeux.assoc.co/t4-l-oeuvre-au-rouge).
