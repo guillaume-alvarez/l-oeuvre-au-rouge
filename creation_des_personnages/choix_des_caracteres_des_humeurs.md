@@ -1,4 +1,4 @@
-## Choix des caractères des humeurs {#choix-des-caract-res-des-humeurs}
+## Choix des caractères et des humeurs {#choix-des-caract-res-des-humeurs}
 
 Le Narrateur n’a pas de caractères mais un score de 5 de base pour toute action.
 
