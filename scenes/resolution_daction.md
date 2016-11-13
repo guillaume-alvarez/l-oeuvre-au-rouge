@@ -34,4 +34,4 @@ Si des joueurs souhaitent rendre l’action plus facile ils peuvent dépenser de
 
 **En cas d’opposition entre joueurs, chacun peut poser des cartes tour à tour, enrichissant en même temps sa description de scène.**
 
-**Un aspect ou un caractère dont le lien avec l’action ne semble pas évident pour les autres joueurs n’est pas accepté si un seul joueur le refuse. Il n’est pas autorisé d’expliquer et de justifier ce lien. Il aurait du être évident vu la description de l’action : l’intérêt du jeu est de créer une histoire et non d’avoir une discussion historique sur la Renaissance et les différentes sortes de Magie.**
+**Un aspect ou un caractère dont le lien avec l’action ne semble pas évident pour les autres joueurs n’est pas accepté. Il n’est pas autorisé d’expliquer et de justifier ce lien, en cas de contestation les joueurs votent, le Narrateur tranche les égalités. Dans tous les cas le lien aurait du être évident vu la description de l’action : l’intérêt du jeu est de créer une histoire et non d’avoir une discussion historique sur la Renaissance et les différentes sortes de magie et de science.**
