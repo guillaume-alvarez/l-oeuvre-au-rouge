@@ -14,5 +14,5 @@ Les sources d’inspirations principales sont [L’Oeuvre au Noir, de Marguerite
 
 _Note technique :_
 
-Le système de base est celui de [FATE Core](http://fate-srd.com/fate-core/basics), adapté au thème \(ésotérique\) et plus dangereux pour les PJ \(moins pulp qu’un SotC\). Il utilise les cartes d’un tarot de Marseille pour figurer les FATE Points. Il l’utilise aussi pour remplacer les dés. Les questions et remarques sont les bienvenues sur [mon blog](https://imrryran.wordpress.com/) et [le forum du potajeux](http://lepotajeux.assoc.co/t4-l-oeuvre-au-rouge).
+Le système de base est celui de [FATE Core](http://fate-srd.com/fate-core/basics), adapté au thème \(ésotérique\) et plus dangereux pour les PJ \(moins pulp qu’un SotC\). Il utilise les cartes d’un tarot de Marseille pour figurer les FATE Points. Les questions et remarques sont les bienvenues sur [mon blog](https://imrryran.wordpress.com/) et [le forum du potajeux](http://lepotajeux.assoc.co/t4-l-oeuvre-au-rouge).
 
