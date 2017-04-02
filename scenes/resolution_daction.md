@@ -9,14 +9,6 @@ Le score du joueur est calculé comme suit :
 * la **planète** influente \(+1 si elle correspond à l’action\)
 * la phase de la **lune** \(+1 si elle correspond à l’orientation morale de l’action\)
 
-Le résultat de l'action est
-
-* **échec** \(score &lt; 5 ou score opposant\) : un aspect lié est créé pour l’opposition si cohérent avec la scène
-* **réussite** \(score &gt; 5 ou score opposant\) : l’aspect est créé et le joueur pioche une carte.
-* **égalité** \(score = 5 ou score opposant\) : l’aspect n’est pas créé mais le joueur reçoit un bonus temporaire sous la forme d’une carte de la défausse.
-
-Si des joueurs souhaitent rendre l’action plus difficile il peuvent dépenser des cartes de leurs mains de la même manière, mais avant le joueur courant.
-
 Le joueur courant peut ensuite choisir de dépenser des cartes de sa main pour atteindre la difficulté :
 
 * face visible si la face est en rapport direct ou symbolique avec l’action \(+1\)
@@ -28,9 +20,19 @@ Cela peut ne pas être suffisant. Le joueur peut alors sacrifier des aspects pou
 
 Si des joueurs souhaitent rendre l’action plus facile ils peuvent dépenser des cartes de leur main de la même manière, après le joueur courant.
 
+En cas d’opposition entre joueurs, chacun peut poser des cartes tour à tour, enrichissant en même temps sa description de scène.
+
 **Quand un joueur a posé ses cartes ou dit qu’il n’agissait pas sur une action, il ne peut pas revenir sur cela pour cette action.**
 
-**En cas d’opposition entre joueurs, chacun peut poser des cartes tour à tour, enrichissant en même temps sa description de scène.**
+Le résultat de l'action est
+
+* **réussite** \(score &gt; 5 ou score opposant\) : l’aspect est créé et le joueur pioche une carte.
+* **égalité** \(score = 5 ou score opposant\) : l’aspect n’est pas créé mais le joueur reçoit un bonus temporaire sous la forme d’une carte de la défausse.
+* **échec** \(score &lt; 5 ou score opposant\) : rien
+
+En cas d'opposition par un autre joueur, le résultat est symmétrique : le joueur avec le plus gros score sur l'action avec une réussite \(2 cartes et 1 aspect sur le personnage de l'autre joueur\), celui avec le plus faible un échec.
+
+
 
 **Un aspect ou un caractère dont le lien avec l’action ne semble pas évident pour les autres joueurs n’est pas accepté. Il n’est pas autorisé d’expliquer et de justifier ce lien, en cas de contestation les joueurs votent, le Narrateur tranche les égalités. Dans tous les cas le lien aurait du être évident vu la description de l’action : l’intérêt du jeu est de créer une histoire et non d’avoir une discussion historique sur la Renaissance et les différentes sortes de Magie et de Science.**
 
