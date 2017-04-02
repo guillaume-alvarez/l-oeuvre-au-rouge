@@ -15,7 +15,6 @@ Le score du joueur est calculé comme suit :
 * la constellation au **zodiaque** \(+1 si correspond au thème de l’action\)
 * la **planète** influente \(+1 si correspond à l’action\)
 * la phase de la **lune** \(+1 si correspond à l’orientation morale de l’action\)
-* **deux cartes** de la pioche \(0 si figure/atout, -1 si bâton/épée, +1 si denier/coupe\) donnant un nombre aléatoire entre -2 et +2
 
 Si des joueurs souhaitent rendre l’action plus difficile il peuvent dépenser des cartes de leurs mains de la même manière, mais avant le joueur courant.
 
