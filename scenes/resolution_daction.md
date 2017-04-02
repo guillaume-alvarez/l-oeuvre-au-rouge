@@ -1,6 +1,6 @@
 ## Résolution d’action {#r-solution-d-action}
 
-A la fin d’une scène \(et donc du tour d’un joueur\) on la résout et le joueur en décrit les conséquences immédiates. Pour ce faire le joueur explicite l’action entreprise, le nouvel aspect qu'il veut ajouter à son personnage, et on compare son score à la difficulté \(5 ou opposition d’un autre joueur\).
+A la fin d’une scène \(et donc du tour d’un joueur\) on la résout et le joueur en décrit les conséquences immédiates. Pour ce faire le joueur explicite l’action entreprise, le nouvel aspect qu'il veut ajouter à son personnage, et on compare son score à la difficulté \(5 ou score d’un autre joueur s'opposant à l'action\).
 
 Le score du joueur est calculé comme suit :
 
@@ -12,11 +12,9 @@ Le score du joueur est calculé comme suit :
 a seule action faite en jeu est
 
 * **prendre un avantage** Cette action permet d’obtenir des forces pour affronter les difficultés à venir et se donner les moyens d’atteindre son ambition. Cela se traduit par un nouvel aspect sur n’importe quel personnage ou élément de l’univers.
-  * **échec** \(score &lt; 5 ou score opposant\) : un aspect lié est créé pour l’opposition si cohérent avec la scène
-  * **égalité** \(score = 5 ou score opposant\) : l’aspect n’est pas créé mais le joueur reçoit un bonus temporaire sous la forme d’une carte 1 à 10 \(ni une figure ni un atout\) de la défausse.
-  * **réussite** \(score &gt; 5 ou score opposant\) : l’aspect est créé et le joueur pioche une carte.
-
-
+* **échec** \(score &lt; 5 ou score opposant\) : un aspect lié est créé pour l’opposition si cohérent avec la scène
+* **réussite** \(score &gt; 5 ou score opposant\) : l’aspect est créé et le joueur pioche une carte.
+* **égalité** \(score = 5 ou score opposant\) : l’aspect n’est pas créé mais le joueur reçoit un bonus temporaire sous la forme d’une carte 1 à 10 \(ni une figure ni un atout\) de la défausse.
 
 Si des joueurs souhaitent rendre l’action plus difficile il peuvent dépenser des cartes de leurs mains de la même manière, mais avant le joueur courant.
 
