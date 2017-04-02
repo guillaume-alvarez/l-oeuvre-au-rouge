@@ -13,7 +13,7 @@ Le résultat de l'action est
 
 * **échec** \(score &lt; 5 ou score opposant\) : un aspect lié est créé pour l’opposition si cohérent avec la scène
 * **réussite** \(score &gt; 5 ou score opposant\) : l’aspect est créé et le joueur pioche une carte.
-* **égalité** \(score = 5 ou score opposant\) : l’aspect n’est pas créé mais le joueur reçoit un bonus temporaire sous la forme d’une carte 1 à 10 \(ni une figure ni un atout\) de la défausse.
+* **égalité** \(score = 5 ou score opposant\) : l’aspect n’est pas créé mais le joueur reçoit un bonus temporaire sous la forme d’une carte de la défausse.
 
 Si des joueurs souhaitent rendre l’action plus difficile il peuvent dépenser des cartes de leurs mains de la même manière, mais avant le joueur courant.
 
