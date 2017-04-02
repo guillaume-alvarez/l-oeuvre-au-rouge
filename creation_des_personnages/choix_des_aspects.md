@@ -22,17 +22,23 @@ Chaque joueur choisit un aspect principal définissant son érudit. Celui-ci pou
 
 Chaque joueur choisit un aspect explicitant l'objectif à long terme de son personnage, celui qui sera remplit s'il gagne la partie. Il faut le préférer grandiloquent que mesquin. Cet objectif est l'oeuvre d'une vie, ce qui explique à la fois les sacrifices consentis et les crimes qui pourraient être commis en son nom.
 
-> Arnulfo étant un artiste, Arnaud lui voit bien un complexe de Frankenstein\/Pygmalion et choisit comme objectif "Je donnerai vie à la matière". Marc réfléchit un peu en puis prend comme objectif de Marcello un "Purger Venise de toute souillure" qui sent déjà l'autodafé et les procès en sorcellerie.
+Les érudits doivent avoir un objectif en rapport avec le Progrès \(religieux ou social\), la Science \(biologique, physique, astronomique, alchimique ou philosophique\) ou le Pouvoir \(temporel ou spirituel, mais certainement éclairé\).
+
+Le Narrateur a pour objectif de rejeter les érudits dans l'Obscurité, que ce soit par l'Intolérance, l'Ignorance ou la Soumission.
+
+> Arnulfo étant un artiste, Arnaud lui voit bien un complexe de Frankenstein/Pygmalion et choisit comme objectif "Je trouverai la vie dans la matière". Marc réfléchit un peu en puis prend comme objectif de Marcello un "Purger Venise de toute souillure" qui sent déjà l'autodafé et les procès en sorcellerie.
 
 ### Liens avec l'univers
 
 Chaque joueur choisit ensuite un aspect lié à un personnage \(autre qu’un érudit\) ou un groupe de personnages qu’il nomme. Enfin chaque joueur choisit un aspect lié au personnage ou groupe qui vient d’être nommé par un autre joueur.
 
 > _Marc a tout de suite une idée : Marcello est le confesseur de la femme du Doge et l’exprime comme “Je dirige les consciences de la Dogaresse et son époux”. Il introduit ainsi le couple ducal. Arnulfo quand à lui est “L’amant du Grand Inquisiteur”, le poste officiel de Grand Inquisteur pourra être défini lors d’une scène en jeu si nécessaire._
-> 
+>
 > _Ils choisissent ensuite un aspect les liant au personnage ou groupe nommé par un autre érudit. N’étant que deux érudits ils ne peuvent choisir que la nature du lien et non le personnage. Marcello est évidemment “Poursuivi par les Inquisiteurs du Conseil des Dix jusqu’au pas de porte de son père”, ce qui le lie au Grand Inquisiteur et promet des questions de juridiction intéressantes avec son père. Arnaud n’a pas froid aux yeux et annonce quand à lui qu’Arnulfo est “Frère adultérin du Doge de Venise, partageant de nombreux traits”._
 
 _Le Narrateur valide les aspects_. Il doit s’assurer qu’il n’y a pas de “couple” entre les érudits s’ils sont plus nombreux que 2, les deux se liant l’un à l’autre par plus de 2 aspects. Il ne doit pas non plus y avoir de “fracture” dans le groupe, 2 érudits n’étant pas du tout reliés même par l’intermédiaire d’un 3e érudit.
 
 > _Pierre a plein d’idées qui lui viennent d’après les aspects des érudits, il valide tout et s’assure que Marc et Arnaud les ont bien notés sur leurs feuilles de personnage._
+
+
 

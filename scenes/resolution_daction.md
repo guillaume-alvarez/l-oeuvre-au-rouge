@@ -15,7 +15,6 @@ Le score du joueur est calculé comme suit :
 *   la constellation au **zodiaque** (+1 si correspond au thème de l’action)
 *   la **planète** influente (+1 si correspond à l’action)
 *   la phase de la **lune** (+1 si correspond à l’orientation morale de l’action)
-*   **deux cartes** de la pioche (0 si figure/atout, -1 si bâton/épée, +1 si denier/coupe) donnant un nombre aléatoire entre -2 et +2
 
 Si des joueurs souhaitent rendre l’action plus difficile il peuvent dépenser des cartes de leurs mains de la même manière, mais avant le joueur courant.
 
@@ -34,4 +33,4 @@ Si des joueurs souhaitent rendre l’action plus facile ils peuvent dépenser de
 
 **En cas d’opposition entre joueurs, chacun peut poser des cartes tour à tour, enrichissant en même temps sa description de scène.**
 
-**Un aspect ou un caractère dont le lien avec l’action ne semble pas évident pour les autres joueurs n’est pas accepté. Il n’est pas autorisé d’expliquer et de justifier ce lien, en cas de contestation les joueurs votent, le Narrateur tranche les égalités. Dans tous les cas le lien aurait du être évident vu la description de l’action : l’intérêt du jeu est de créer une histoire et non d’avoir une discussion historique sur la Renaissance et les différentes sortes de magie et de science.**
+**Un aspect ou un caractère dont le lien avec l’action ne semble pas évident pour les autres joueurs n’est pas accepté. Il n’est pas autorisé d’expliquer et de justifier ce lien, en cas de contestation les joueurs votent, le Narrateur tranche les égalités. Dans tous les cas le lien aurait du être évident vu la description de l’action : l’intérêt du jeu est de créer une histoire et non d’avoir une discussion historique sur la Renaissance et les différentes sortes de Magie et de Science.**
