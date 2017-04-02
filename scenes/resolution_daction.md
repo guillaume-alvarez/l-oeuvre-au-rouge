@@ -9,9 +9,8 @@ Le score du joueur est calculé comme suit :
 * la **planète** influente \(+1 si elle correspond à l’action\)
 * la phase de la **lune** \(+1 si elle correspond à l’orientation morale de l’action\)
 
-a seule action faite en jeu est
+Le résultat de l'action est
 
-* **prendre un avantage** Cette action permet d’obtenir des forces pour affronter les difficultés à venir et se donner les moyens d’atteindre son ambition. Cela se traduit par un nouvel aspect sur n’importe quel personnage ou élément de l’univers.
 * **échec** \(score &lt; 5 ou score opposant\) : un aspect lié est créé pour l’opposition si cohérent avec la scène
 * **réussite** \(score &gt; 5 ou score opposant\) : l’aspect est créé et le joueur pioche une carte.
 * **égalité** \(score = 5 ou score opposant\) : l’aspect n’est pas créé mais le joueur reçoit un bonus temporaire sous la forme d’une carte 1 à 10 \(ni une figure ni un atout\) de la défausse.
