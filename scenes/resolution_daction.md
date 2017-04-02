@@ -18,7 +18,7 @@ Un aspect ou un symbolisme donné ne peut être utilisé qu’une seule fois sur
 
 Cela peut ne pas être suffisant. Le joueur peut alors sacrifier des aspects pour avoir +1 par aspect sacrifié. Ce sacrifice est accompagné d’une description correspondant à la scène. Si la description n’est pas possible le sacrifice n’est pas possible.
 
-Si des joueurs souhaitent rendre l’action plus facile ils peuvent dépenser des cartes de leur main de la même manière, après le joueur courant.
+Si des joueurs ont participé à la description de l'action, ils peuvent dépenser leurs cartes \(ou sacrifer leurs aspects\) pour le joueur courant, ou son éventuel adversaire. Les règles sont les mêmes que celles s'appliquant au joueur courant.
 
 En cas d’opposition entre joueurs, chacun peut poser des cartes tour à tour, enrichissant en même temps sa description de scène.
 
@@ -31,8 +31,6 @@ Le résultat de l'action est
 * **échec** \(score &lt; 5 ou score opposant\) : rien
 
 En cas d'opposition par un autre joueur, le résultat est symmétrique : le joueur avec le plus gros score sur l'action avec une réussite \(2 cartes et 1 aspect sur le personnage de l'autre joueur\), celui avec le plus faible un échec.
-
-
 
 **Un aspect ou un caractère dont le lien avec l’action ne semble pas évident pour les autres joueurs n’est pas accepté. Il n’est pas autorisé d’expliquer et de justifier ce lien, en cas de contestation les joueurs votent, le Narrateur tranche les égalités. Dans tous les cas le lien aurait du être évident vu la description de l’action : l’intérêt du jeu est de créer une histoire et non d’avoir une discussion historique sur la Renaissance et les différentes sortes de Magie et de Science.**
 
