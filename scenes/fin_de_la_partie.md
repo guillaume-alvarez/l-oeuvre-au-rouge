@@ -10,5 +10,5 @@ Pour qu’un joueur prenne un aspect sur chaque autre joueur il doit
 * collecter un aspect venant de chaque autre érudit \(par une scène dirigée contre ce personnage\)
 * ne pas sacrifier ces aspects-là, ou en reprendre un nouveau sur le même érudit que celui de l’aspect sacrifié
 
-
+Un joueur peut avoir sacrifié l'aspect décrivant son objectif. Cela ne l'empêche pas de gagner, mais la victoire aura probablement un goût amer pour son personnage. On peut parfaitement imaginer qu'un érudit voulant gagner le Pouvoir pour sauver sa famille en vienne à sacrifier celle-ci pour obtenir le Pouvoir.
 
