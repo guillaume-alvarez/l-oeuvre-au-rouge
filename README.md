@@ -10,9 +10,9 @@ De plus les personnages ne sont pas tant caractérisés par leurs compétences e
 
 Enfin les personnages joueurs agissent rarement de concert, ce sont des gens indépendants qui cachent une partie de leurs activités à leurs contemporains. Peut-être même ne se rencontreront-ils jamais mais n’auront que des échanges épistolaires, ou des correspondances par des amis communs.
 
-Les sources d’inspirations principales sont [L’Oeuvre au Noir, de Marguerite Yourcenar](http://fr.wikipedia.org/wiki/L%27%C5%92uvre_au_noir) et [La Licorne, de Gabella et Jean](http://fr.wikipedia.org/wiki/La_Licorne_%28bande_dessin%C3%A9e%29).
+Les sources d’inspirations principales sont [L’Oeuvre au Noir, de Marguerite Yourcenar](http://fr.wikipedia.org/wiki/L'Œuvre_au_noir) et [La Licorne, de Gabella et Jean](http://fr.wikipedia.org/wiki/La_Licorne_%28bande_dessinée%29).
 
 _Note technique :_
 
-Le système de base est celui de [FATE Core](http://fate-srd.com/fate-core/basics), adapté au thème \(ésotérique\) et plus dangereux pour les PJ \(moins pulp qu’un SotC\). Il utilise les cartes d’un tarot de Marseille pour figurer les FATE Points. Les questions et remarques sont les bienvenues sur [mon blog](https://imrryran.wordpress.com/), le [forum de discussion de ce site](https://www.gitbook.com/book/guillaume-alvarez/l-oeuvre-au-rouge/discussions) ou [le forum du potajeux](http://lepotajeux.assoc.co/t4-l-oeuvre-au-rouge).
+Le système de base est celui de [FATE Core](http://fate-srd.com/fate-core/basics), adapté au thème \(ésotérique\), au jeu sans meneur et plus dangereux pour les PJ \(moins pulp qu’un SotC\). Il utilise les cartes d’un tarot de Marseille pour figurer les FATE Points. Les questions et remarques sont les bienvenues sur [mon blog](https://imrryran.wordpress.com/), le [forum de discussion de ce site](https://www.gitbook.com/book/guillaume-alvarez/l-oeuvre-au-rouge/discussions) ou [le forum du potajeux](http://lepotajeux.assoc.co/t4-l-oeuvre-au-rouge).
 
