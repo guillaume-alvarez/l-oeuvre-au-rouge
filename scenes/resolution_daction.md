@@ -54,5 +54,5 @@ Le résultat de l'action est
 * **égalité** \(score = 5 ou score opposant\) : l’aspect n’est pas créé mais le joueur reçoit un bonus temporaire sous la forme d’une carte de la défausse.
 * **échec** \(score &lt; 5 ou score opposant\) : rien
 
-En cas d'opposition par un autre joueur, le résultat est symmétrique : le joueur avec le plus gros score sur l'action avec une réussite \(2 cartes et 1 aspect sur le personnage de l'autre joueur\), celui avec le plus faible un échec.
+En cas d'opposition par un autre joueur, le résultat est symmétrique : le joueur avec le plus gros score sur l'action avec une réussite \(1 cartes et 1 aspect sur le personnage de l'autre joueur\), celui avec le plus faible un échec.
 
