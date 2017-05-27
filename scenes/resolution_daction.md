@@ -32,6 +32,18 @@ Tous les aspects peuvent être sacrifiés, ceux donnés à la création de perso
 
 Si des joueurs ont participé à la description de l'action, ils peuvent dépenser leurs cartes \(ou sacrifer leurs aspects\) pour le joueur courant, ou son éventuel adversaire. Les règles sont les mêmes que celles s'appliquant au joueur courant.
 
+### S'opposer à une action
+
+Si un joueur s'oppose à l'action que déclare le joueur courant il raconte les actions contraires de son personnage \(si cela n'a pas déjà été fait\) et calculera de la même manière son score.
+
+Le joueur courant peut aussi cibler explicitement un autre joueur pour obtenir un aspect sur lui, et se rapprocher ainsi de la Victoire. Il n'est pas possible pour le joueur ciblé de s'opposer à une telle action, il ne peut qu'éviter de dépenser des cartes.
+
+Dans tous les cas, il n'est pas possible de 'prendre' ou 'détruire' un aspect d'un autre joueur, à moi que le joueur opposé ne le propose lors de la résolution de la scène.
+
+> Marcello a aquis l'aspect "Trésor de pierres précieuses et de gemmes rares". Arnulfo ne peut pas s'approprier ce trésor dans une action. Par contre il choisit d'en rechercher l'emplacement, pour pouvoir y piocher par la suite. Son joueur Arnaud y voit aussi l'occasion d'avoir un aspect sur Marcello. Il décrit donc ses investigations. Marcello décrit en retour les précautions qu'il a prises pour protéger son bien. Ils calculent leurs scores et Arnulfo gagne donc l'aspect "Connait l'emplacement du Trésor de Marcello".
+>
+> Si Marc avait lors de l'action sacrifié l'aspect "Trésor de pierres précieuses et de gemmes rares" de Marcello alors Arnulfo aurait pu gagner comme aspect "A volé le Trésor de Marcello".
+
 ### Résultat de l'action
 
 **Quand un joueur a posé ses cartes ou dit qu’il n’agissait pas sur une action, il ne peut pas revenir sur cela pour cette action.**
