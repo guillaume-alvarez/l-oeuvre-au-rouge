@@ -34,7 +34,7 @@ Si des joueurs ont participé à la description de l'action, ils peuvent dépens
 
 ### S'opposer à une action
 
-Si un joueur s'oppose à l'action que déclare le joueur courant il raconte les actions contraires de son personnage \(si cela n'a pas déjà été fait\) et calculera de la même manière son score.
+Si un joueur s'oppose à l'action que déclare le joueur courant il raconte les actions contraires de son personnage \(si cela n'a pas déjà été fait\) et calculera de la même manière son score. Cela signifie que les points tirés des **caractères**, du **zodiaque**, des **planètres** et de la phase de la **lune** dépendent de sa descriptions et peuvent être différents de ceux du joueur courant.
 
 Le joueur courant peut aussi cibler explicitement un autre joueur pour obtenir un aspect sur lui, et se rapprocher ainsi de la Victoire. Il n'est pas possible pour le joueur ciblé de s'opposer à une telle action, il ne peut qu'éviter de dépenser des cartes.
 
